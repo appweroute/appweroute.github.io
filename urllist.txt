@@ -1,0 +1,2 @@
+https://app.weroute.com.br
+https://app.weroute.com.br/opensearch.xml
